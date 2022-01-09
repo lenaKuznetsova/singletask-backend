@@ -1,0 +1,2 @@
+class TaskSelector:
+    pass

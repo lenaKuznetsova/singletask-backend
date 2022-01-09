@@ -1,0 +1,3 @@
+pytz
+flask
+git+git@github.com:lenaKuznetsova/singletask-sql.git@main#egg=singletask_sql
